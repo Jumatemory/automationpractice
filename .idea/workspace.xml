@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="764ee18b-dc2d-4930-9d44-5b0cba3a0db3" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="C:\Users\Temor\IdeaProjects\automationpractice\.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1YXJUa6kEX2LS73pSbJtfJQFVO1" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="764ee18b-dc2d-4930-9d44-5b0cba3a0db3" name="Default Changelist" comment="" />
+      <created>1583083021348</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1583083021348</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1323" height="570" key="GridCell.Tab.0.bottom" timestamp="1583083342553">
+      <screen x="-1366" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="570" key="GridCell.Tab.0.bottom/-1366.0.1366.728/0.0.1680.1010@-1366.0.1366.728" timestamp="1583083342553" />
+    <state width="1323" height="570" key="GridCell.Tab.0.center" timestamp="1583083342553">
+      <screen x="-1366" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="570" key="GridCell.Tab.0.center/-1366.0.1366.728/0.0.1680.1010@-1366.0.1366.728" timestamp="1583083342553" />
+    <state width="1323" height="570" key="GridCell.Tab.0.left" timestamp="1583083342552">
+      <screen x="-1366" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="570" key="GridCell.Tab.0.left/-1366.0.1366.728/0.0.1680.1010@-1366.0.1366.728" timestamp="1583083342552" />
+    <state width="1323" height="570" key="GridCell.Tab.0.right" timestamp="1583083342553">
+      <screen x="-1366" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="570" key="GridCell.Tab.0.right/-1366.0.1366.728/0.0.1680.1010@-1366.0.1366.728" timestamp="1583083342553" />
+  </component>
+</project>
